@@ -76,8 +76,6 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a biomedical engineer and research scientist with special interests in signal processing and machine learning for computational sleep science. I design algorithms and data processing pipelines for modeling, analysis and visualisation of physiological signals such as EEG, EOG and EMG obtained from nocturnal PSG recordings. Through this work, I hope to further our collective understanding of sleep pathologies, and how they impact human health.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
