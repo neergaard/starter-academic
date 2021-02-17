@@ -76,6 +76,8 @@ email: ""
 highlight_name: false
 ---
 
-I am a biomedical engineer and research scientist with special interests in signal processing and machine learning for computational sleep science. I design algorithms and data processing pipelines for modeling, analysis and visualisation of physiological signals such as EEG, EOG and EMG obtained from nocturnal PSG recordings. Through this work, I hope to further our collective understanding of sleep pathologies, and how they impact human health.
+I am a research scientist and biomedical engineer with special interests in signal processing and machine learning for computational sleep science.
+I design algorithms and data processing pipelines for modeling, analysis and visualisation of physiological signals such as EEG, EOG and EMG obtained from nocturnal PSG recordings.
+Through this work, I hope to further our collective understanding of sleep pathologies, and how they impact human health.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
