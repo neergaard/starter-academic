@@ -16,5 +16,7 @@ git add .
 git commit -m "build site"
 git push origin master
 cd ..
+
 echo ""
 echo "Site fully updated and built."
+echo ""
