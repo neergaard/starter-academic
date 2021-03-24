@@ -88,12 +88,15 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "alexander.neergaard@gmail.com"
-phone = "+45 2984 0968"
+# email = "alexander.neergaard@gmail.com"
+# phone = "+45 2984 0968"
+email = ""
+phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Nørrebrogade 10c, 3. 4", city = "København N", region = "", postcode = "2200", country = "Denmark", country_code = "DK"}
+# address = {street = "Nørrebrogade 10c, 3. 4", city = "København N", region = "", postcode = "2200", country = "Denmark", country_code = "DK"}
+address = ""
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
