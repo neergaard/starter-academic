@@ -96,7 +96,7 @@ phone = ""
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
 # address = {street = "Nørrebrogade 10c, 3. 4", city = "København N", region = "", postcode = "2200", country = "Denmark", country_code = "DK"}
-address = ""
+address = {street = "", city = "", region = "", postcode = "", country = "", country_code = ""}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
