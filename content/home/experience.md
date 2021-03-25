@@ -38,6 +38,14 @@ experience:
     date_end: "2020-04-25"
     description: "Thesis title: Deep Learning Methods for Clinical Sleep Analysis"
 
+  - title: Visiting student researcher
+    company: Stanford Center for Sleep Sciences and Medicine, Stanford University
+    company_url: "https://www.stanford.edu"
+    location: Palo Alto, CA, USA
+    date_start: "2017-10-01"
+    date_end: "2019-06-01"
+    # description: "Thesis title: Deep Learning Methods for Clinical Sleep Analysis"
+
   - title: Development Engineer
     company: TrackMan
     company_url: "https://trackman.com"
@@ -53,6 +61,14 @@ experience:
     date_start: "2016-06-01"
     date_end: "2016-07-01"
     description: "Internship"
+
+  - title: Visiting student researcher
+    company: Stanford Center for Sleep Sciences and Medicine, Stanford University
+    company_url: "https://www.stanford.edu"
+    location: Palo Alto, CA, USA
+    date_start: "2014-08-01"
+    date_end: "2014-12-21"
+    # description: "Thesis title: Deep Learning Methods for Clinical Sleep Analysis"
 
   - title: Teaching assistant
     company: Department of Electrical Engineering, Technical University of Denmark

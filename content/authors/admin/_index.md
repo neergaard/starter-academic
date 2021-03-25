@@ -28,16 +28,16 @@ education:
     - course: PhD in Biomedical Engineering
       institution: Technical University of Denmark
       year: 2020
-    - course: Visiting student researcher
-      institution: Stanford University
-      year: 2017--2019
-    - course: MScEng in Biomedical Engineering
+    # - course: Visiting student researcher
+    #   institution: Stanford University
+    #   year: 2017--2019
+    - course: MScEng, Biomedical Engineering
       institution: Technical University of Denmark
       year: 2016
-    - course: Visiting student researcher
-      institution: Stanford University
-      year: 2014
-    - course: BScEng in Biomedical Engineering
+    # - course: Visiting student researcher
+    #   institution: Stanford University
+    #   year: 2014
+    - course: BScEng, Biomedical Engineering
       institution: Technical University of Denmark
       year: 2013
 
@@ -64,6 +64,9 @@ social:
   - icon: cv
     icon_pack: ai
     link: media/resume.pdf
+  - icon: orcid
+    icon_pack: fab
+    link: https://orcid.org/0000-0001-6881-9766
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`,
