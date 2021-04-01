@@ -83,6 +83,9 @@ I am a research scientist and biomedical engineer with special interests in sign
 I design algorithms and data processing pipelines for modeling, analysis and visualisation of physiological signals such as EEG, EOG and EMG obtained from nocturnal PSG recordings.
 Through this work, I hope to further our collective understanding of sleep pathologies, and how they impact human health.
 
+Currently, I work as a self-employed research scientist.
+I provide consulting services to academia and industry research groups, which includes data processing and machine learning pipelines, algorithm development, and data visualization.
+
 In 2020, I graduated with a PhD in Biomedical Engineering from the Technical University of Denmark under the supervision of Associate Professor Helge B. D. Sørensen, PhD, Professor Poul Jennum, MD, PhD, from the Danish Center for Sleep Medicine, and Professor Emmanuel Mignot, MD, PhD, from Stanford University.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
