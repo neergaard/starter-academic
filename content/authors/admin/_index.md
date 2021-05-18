@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alexander Neergaard Olesen
+title: Alexander Neergaard Zahid (Olesen)
 
 # Is this the primary user of the site?
 superuser: true
@@ -87,5 +87,7 @@ Currently, I work as a self-employed research scientist.
 I provide consulting services to academia and industry research groups, which includes data processing and machine learning pipelines, algorithm development, and data visualization.
 
 In 2020, I graduated with a PhD in Biomedical Engineering from the Technical University of Denmark under the supervision of Associate Professor Helge B. D. Sørensen, PhD, Professor Poul Jennum, MD, PhD, from the Danish Center for Sleep Medicine, and Professor Emmanuel Mignot, MD, PhD, from Stanford University.
+
+I have previously published under the last name _Olesen_, but going forward I will publish under my married last name _Zahid_.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
