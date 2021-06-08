@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alexander Neergaard Zahid (Olesen)
+title: Alexander Neergaard (Olesen) Zahid
 
 # Is this the primary user of the site?
 superuser: true
